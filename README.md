@@ -1,2 +1,2 @@
 # Bored-Activity-Suggestions
-Activity suggestions from Bored API
+Activity suggestions from Bored API. 
